@@ -1,0 +1,425 @@
+{
+  "dishes": [
+    {
+      "id": 0,
+      "name": "Pudding Cake",
+      "image": "images/puddingcake.jpeg",
+      "category": "dessert",
+      "label": "Hot",
+      "price": "4.99",
+      "featured": true,
+      "description": "Delicious pudding layer over yummy chocolate cake layer can be your best dessert"
+    },
+    {
+      "id": 1,
+      "name": "Potato Wedges",
+      "image": "images/potatowedges.png",
+      "category": "appetizer",
+      "label": "",
+      "price": "1.99",
+      "featured": false,
+      "description": "Deep fried wedges coated with mildly spiced flour batter accompanied with a sweet-tangy tamarind sauce"
+    },
+    {
+      "id": 2,
+      "name": "Kala Jamun",
+      "image": "images/kalajamun.jpg",
+      "category": "dessert",
+      "label": "New",
+      "price": "1.99",
+      "featured": false,
+      "description": "Sweetness at it's best and very easy to make"
+    },
+    {
+      "id": 3,
+      "name": "Arabian Kunafa",
+      "image": "images/arabiankunafa.jpg",
+      "category": "dessert",
+      "label": "",
+      "price": "2.99",
+      "featured": false,
+      "description": "A delectable, semi-sweet Arabian style kunafa, with Semai crust and custard layer"
+    },
+    {
+      "id": 4,
+      "name": "Beef Pizza",
+      "image": "images/beefpizza.jpg",
+      "category": "appetizer",
+      "label": "",
+      "price": "2.99",
+      "featured": false,
+      "description": "Italian style oven baked beef pizza with mozarella cheese and special pizza sauce"
+    },
+    {
+      "id": 5,
+      "name": "Veg Pakora",
+      "image": "images/pakora.jpeg",
+      "category": "appetizer",
+      "label": "",
+      "price": "2.99",
+      "featured": false,
+      "description": "Crunchy vegetable pakoras, sweet and sour sauce will increase its's taste"
+    },
+    {
+      "id": 6,
+      "name": "Cloud Omlete",
+      "image": "images/cloudomlete.jpeg",
+      "category": "appetizer",
+      "label": "",
+      "price": "2.99",
+      "featured": false,
+      "description": "If you are bored with your everyday boiled or fried egg, then this one is for you"
+    },
+    {
+      "id": 7,
+      "name": "Chicken Fry",
+      "image": "images/chickenfry.jpeg",
+      "category": "appetizer",
+      "label": "",
+      "price": "2.99",
+      "featured": false,
+      "description": "Crispy chicken fries served with potato wedges"
+    },
+    {
+      "id": 8,
+      "name": "Chicken Veg Soup",
+      "image": "images/chickenvegsoup.jpeg",
+      "category": "appetizer",
+      "label": "",
+      "price": "2.99",
+      "featured": false,
+      "description": "Hot and tasty soup is best deal for winter"
+    },
+    {
+      "id": 9,
+      "name": "Dalgona Coffee",
+      "image": "images/dalgonacoffee.jpeg",
+      "category": "drink",
+      "label": "",
+      "price": "2.99",
+      "featured": false,
+      "description": "Special Dalgona Coffee, easy to make and best stree reliever"
+    },
+    {
+      "id": 10,
+      "name": "Garlic Potato",
+      "image": "images/garlicpotato.jpeg",
+      "category": "appetizer",
+      "label": "",
+      "price": "2.99",
+      "featured": false,
+      "description": "Crispy potato with garlic coating"
+    },
+    {
+      "id": 11,
+      "name": "Pan Pasta",
+      "image": "images/panpasta.jpeg",
+      "category": "appetizer",
+      "label": "",
+      "price": "2.99",
+      "featured": false,
+      "description": "Italian style chicken pan pasta made using special sauce"
+    },
+    {
+      "id": 12,
+      "name": "Jilapi",
+      "image": "images/jilapi.jpeg",
+      "category": "appetizer",
+      "label": "",
+      "price": "2.99",
+      "featured": false,
+      "description": "Homemade bakery style perfect shaped jilapi will complete your iftaar"
+    },
+    {
+      "id": 13,
+      "name": "Halwa",
+      "image": "images/halwa.jpg",
+      "category": "dessert",
+      "label": "",
+      "price": "2.99",
+      "featured": false,
+      "description": "Sweet and yummy halwa"
+    }
+  ],
+  "comments": [
+    {
+      "id": 0,
+      "dishId": 0,
+      "rating": 5,
+      "comment": "Imagine all the eatables, living in conFusion!",
+      "author": "John Lemon",
+      "date": "2012-10-16T17:57:28.556094Z"
+    },
+    {
+      "id": 1,
+      "dishId": 0,
+      "rating": 4,
+      "comment": "Sends anyone to heaven, I wish I could get my mother-in-law to eat it!",
+      "author": "Paul McVites",
+      "date": "2014-09-05T17:57:28.556094Z"
+    },
+    {
+      "id": 2,
+      "dishId": 0,
+      "rating": 3,
+      "comment": "Eat it, just eat it!",
+      "author": "Michael Jaikishan",
+      "date": "2015-02-13T17:57:28.556094Z"
+    },
+    {
+      "id": 3,
+      "dishId": 0,
+      "rating": 4,
+      "comment": "Ultimate, Reaching for the stars!",
+      "author": "Ringo Starry",
+      "date": "2013-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 4,
+      "dishId": 0,
+      "rating": 2,
+      "comment": "It's your birthday, we're gonna party!",
+      "author": "25 Cent",
+      "date": "2011-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 5,
+      "dishId": 1,
+      "rating": 5,
+      "comment": "Imagine all the eatables, living in conFusion!",
+      "author": "John Lemon",
+      "date": "2012-10-16T17:57:28.556094Z"
+    },
+    {
+      "id": 6,
+      "dishId": 1,
+      "rating": 4,
+      "comment": "Sends anyone to heaven, I wish I could get my mother-in-law to eat it!",
+      "author": "Paul McVites",
+      "date": "2014-09-05T17:57:28.556094Z"
+    },
+    {
+      "id": 7,
+      "dishId": 1,
+      "rating": 3,
+      "comment": "Eat it, just eat it!",
+      "author": "Michael Jaikishan",
+      "date": "2015-02-13T17:57:28.556094Z"
+    },
+    {
+      "id": 8,
+      "dishId": 1,
+      "rating": 4,
+      "comment": "Ultimate, Reaching for the stars!",
+      "author": "Ringo Starry",
+      "date": "2013-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 9,
+      "dishId": 1,
+      "rating": 2,
+      "comment": "It's your birthday, we're gonna party!",
+      "author": "25 Cent",
+      "date": "2011-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 10,
+      "dishId": 2,
+      "rating": 5,
+      "comment": "Imagine all the eatables, living in conFusion!",
+      "author": "John Lemon",
+      "date": "2012-10-16T17:57:28.556094Z"
+    },
+    {
+      "id": 11,
+      "dishId": 2,
+      "rating": 4,
+      "comment": "Sends anyone to heaven, I wish I could get my mother-in-law to eat it!",
+      "author": "Paul McVites",
+      "date": "2014-09-05T17:57:28.556094Z"
+    },
+    {
+      "id": 12,
+      "dishId": 2,
+      "rating": 3,
+      "comment": "Eat it, just eat it!",
+      "author": "Michael Jaikishan",
+      "date": "2015-02-13T17:57:28.556094Z"
+    },
+    {
+      "id": 13,
+      "dishId": 2,
+      "rating": 4,
+      "comment": "Ultimate, Reaching for the stars!",
+      "author": "Ringo Starry",
+      "date": "2013-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 14,
+      "dishId": 2,
+      "rating": 2,
+      "comment": "It's your birthday, we're gonna party!",
+      "author": "25 Cent",
+      "date": "2011-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 15,
+      "dishId": 3,
+      "rating": 5,
+      "comment": "Imagine all the eatables, living in conFusion!",
+      "author": "John Lemon",
+      "date": "2012-10-16T17:57:28.556094Z"
+    },
+    {
+      "id": 16,
+      "dishId": 3,
+      "rating": 4,
+      "comment": "Sends anyone to heaven, I wish I could get my mother-in-law to eat it!",
+      "author": "Paul McVites",
+      "date": "2014-09-05T17:57:28.556094Z"
+    },
+    {
+      "id": 17,
+      "dishId": 3,
+      "rating": 3,
+      "comment": "Eat it, just eat it!",
+      "author": "Michael Jaikishan",
+      "date": "2015-02-13T17:57:28.556094Z"
+    },
+    {
+      "id": 18,
+      "dishId": 3,
+      "rating": 4,
+      "comment": "Ultimate, Reaching for the stars!",
+      "author": "Ringo Starry",
+      "date": "2013-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 19,
+      "dishId": 3,
+      "rating": 2,
+      "comment": "It's your birthday, we're gonna party!",
+      "author": "25 Cent",
+      "date": "2011-12-02T17:57:28.556094Z"
+    },
+    {
+      "dishId": 1,
+      "rating": "4",
+      "author": "Muntaka Ibnath",
+      "comment": "Test Comment",
+      "date": "2020-05-18T06:42:01.454Z",
+      "id": 22
+    },
+    {
+      "dishId": 2,
+      "rating": "4",
+      "author": "Muntaka",
+      "comment": "This is a test comment",
+      "date": "2020-05-18T06:46:53.134Z",
+      "id": 23
+    },
+    {
+      "dishId": 4,
+      "rating": "5",
+      "author": "Muntaka",
+      "comment": "Best Homemaded Pizza ever!!!",
+      "date": "2020-05-19T16:06:03.519Z",
+      "id": 24
+    }
+  ],
+  "promotions": [
+    {
+      "id": 0,
+      "name": "Weekend Special Menu",
+      "image": "images/specialoffer.jpeg",
+      "label": "New",
+      "price": "19.99",
+      "featured": true,
+      "description": "Featuring mouthwatering combinations with a choice of chinese vegetable, fried chicken, beef sizzling and veg fried rice."
+    }
+  ],
+  "leaders": [
+    {
+      "id": 0,
+      "name": "Peter Pan",
+      "image": "images/duckchef.png",
+      "designation": "Chief Epicurious Officer",
+      "abbr": "CEO",
+      "featured": false,
+      "description": "Our CEO, Peter, credits his hardworking East Asian immigrant parents who undertook the arduous journey to the shores of America with the intention of giving their children the best future. His mother's wizardy in the kitchen whipping up the tastiest dishes with whatever is available inexpensively at the supermarket, was his first inspiration to create the fusion cuisines for which The Frying Pan became well known. He brings his zeal for fusion cuisines to this restaurant, pioneering cross-cultural culinary connections."
+    },
+    {
+      "id": 1,
+      "name": "Dhanasekaran Witherspoon",
+      "image": "images/duckchef.png",
+      "designation": "Chief Food Officer",
+      "abbr": "CFO",
+      "featured": false,
+      "description": "Our CFO, Danny, as he is affectionately referred to by his colleagues, comes from a long established family tradition in farming and produce. His experiences growing up on a farm in the Australian outback gave him great appreciation for varieties of food sources. As he puts it in his own words, Everything that runs, wins, and everything that stays, pays!"
+    },
+    {
+      "id": 2,
+      "name": "Agumbe Tang",
+      "image": "images/duckchef.png",
+      "designation": "Chief Taste Officer",
+      "abbr": "CTO",
+      "featured": false,
+      "description": "Blessed with the most discerning gustatory sense, Agumbe, our CFO, personally ensures that every dish that we serve meets his exacting tastes. Our chefs dread the tongue lashing that ensues if their dish does not meet his exacting standards. He lives by his motto, You click only if you survive my lick."
+    },
+    {
+      "id": 3,
+      "name": "Mr. Duck",
+      "image": "images/duckchef.png",
+      "designation": "Executive Chef",
+      "abbr": "EC",
+      "featured": true,
+      "description": "Award winning three-star Michelin chef with wide International experience having worked closely with whos-who in the culinary world, he specializes in creating mouthwatering Indo-Italian fusion experiences. He says, Put together the cuisines from the two craziest cultures, and you get a winning hit! Amma Mia!"
+    }
+  ],
+  "feedback": [
+    {
+      "firstname": "fdas",
+      "lastname": "afds",
+      "telnum": "134113",
+      "email": "dafdads@daffas.dfdafd",
+      "agree": true,
+      "contactType": "Email",
+      "message": "afadsfds",
+      "date": "2017-12-04T09:41:49.890Z",
+      "id": 1
+    },
+    {
+      "firstname": "Muntaka",
+      "lastname": "Ibnath",
+      "telnum": "12345",
+      "email": "dsalvatore478@gmail.com",
+      "agree": true,
+      "contactType": "Email",
+      "message": "Test Feedback",
+      "date": "2020-05-18T16:04:49.685Z",
+      "id": 2
+    },
+    {
+      "firstname": "Tanzeem",
+      "lastname": "Meem",
+      "telnum": "12345",
+      "email": "asdasd@asd.com",
+      "agree": true,
+      "contactType": "Email",
+      "message": "Test Feedback 2",
+      "date": "2020-05-18T16:17:57.430Z",
+      "id": 3
+    },
+    {
+      "firstname": "Ahabab",
+      "lastname": "Feroz",
+      "telnum": "12345",
+      "email": "prantoizc00l@gmail.com",
+      "agree": true,
+      "contactType": "Email",
+      "message": "Test 3",
+      "date": "2020-05-18T16:25:56.667Z",
+      "id": 4
+    }
+  ]
+}
